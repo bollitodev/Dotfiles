@@ -1,5 +1,4 @@
 # My DOT Files: NvChad, Zellij, and ZSH
-This is my .DOTFILE set up as my ninja path to become better at woring with nvim.
+This is my current .DOTFILE set up.
 
-
-Later I'll add my dependencies and things to install in order to work
+Later I'll add my dependencies and things to install in order to work. Maybe some configuration scripts (?)
